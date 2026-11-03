@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Привет! Я занимаюсь вайбкодингом и автоматизацией с помощью ИИ
 
-<!--
-**rva161-cell/rva161-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль! Здесь я делюсь проектами, экспериментами и инструментами, созданными в связке **человек + искусственный интеллект**.
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я исследую новый подход к разработке — **вайбкодинг** (vibe coding): когда идея, интуиция и диалог с ИИ заменяют часы рутинного написания кода. Вместо того чтобы вручную прописывать каждую функцию, я формулирую задачу, направляю модель и вместе с ней довожу проект до результата.
+
+Параллельно я занимаюсь **автоматизацией с помощью ИИ** — превращаю повторяющиеся задачи в скрипты, пайплайны и агентов, которые работают сами.
+
+## 🧠 Чем я занимаюсь
+
+- **Вайбкодинг** — быстрая разработка прототипов и приложений в диалоге с LLM
+- **Автоматизация процессов** — скрипты, боты, пайплайны и ИИ-агенты
+- **Интеграция ИИ в рабочие процессы** — от генерации кода до обработки данных
+- **Эксперименты с промптами** — инженерия запросов для стабильных результатов
+
+## 🛠️ Инструменты и технологии
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- Языки: Python, JavaScript / TypeScript
+- ИИ: OpenAI API, Claude, локальные модели (Ollama)
+- Автоматизация: n8n, Make, cron, GitHub Actions
+- Прочее: Git, Docker, REST API
+
+## 📌 Что вы найдёте в репозиториях
+
+- 🤖 Примеры ИИ-агентов и автоматизаций
+- ⚡ Прототипы, собранные методом вайбкодинга
+- 📚 Заметки и шаблоны промптов
+- 🔧 Утилиты для повседневных задач
+
+## 📫 Связаться со мной
+
+- GitHub Issues — по любому проекту
+- *(добавьте свои контакты: email, Telegram, сайт)*
+
+---
+
+> «Лучший код — тот, который ты и ИИ написали вместе.»
